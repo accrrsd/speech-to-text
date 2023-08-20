@@ -1,1 +1,3 @@
-# speech-to-text
+# Speech-to-text
+
+Простенькая программа которая переводит речь с микрофона в текс, f10 - turn on, f9 - turn off.
